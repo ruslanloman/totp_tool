@@ -1,0 +1,4 @@
+cryptography==35.0.0
+prettytable==0.7.2
+pyotp==2.4.1
+pyaml
